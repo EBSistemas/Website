@@ -666,7 +666,7 @@ strong {
 -----------------------------------------*/
 .contact-container-wrap {
   background-color: var(--primary-color);
-  padding-bottom: 120px;
+  padding-bottom: 30px;
 }
 
 .contact-form {
