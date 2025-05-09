@@ -10,7 +10,7 @@ Bem-vindo ao repositório oficial do site da **EB Sistemas**.
 
 Acesse a landing page oficial da EB Sistemas:
 
-👉 **[https://ebsistemas.github.io/Website/](https://ebsistemas.github.io/Website/)**
+👉 **[https://ebsistemas.github.io/website/](https://ebsistemas.github.io/website/)**
 
 ---
 
