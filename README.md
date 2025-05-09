@@ -31,3 +31,10 @@ Acesse a landing page oficial da EB Sistemas:
 
 ---
 
+## 📬 Contato
+
+Para suporte, orçamentos ou parcerias:
+
+📧 ebsistemasebsistemas@gmail.com  
+📱 (19)97155-0132
+📞 (19)3878-2724
